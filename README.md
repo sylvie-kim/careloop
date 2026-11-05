@@ -5,6 +5,8 @@ CareLoop shows clinic staff which CPAP patients need attention today, why, and w
 
 Built at **[SOOMi Health](https://soomihealth.care)** by a non-developer founder working with AI coding agents. This repository is an overview; the source code stays private because the product handles patient health data.
 
+**▶ [Watch the 60-second intro (English, synthetic data)](https://youtu.be/bxKa4xb-ArA)**
+
 ---
 
 ## The problem
