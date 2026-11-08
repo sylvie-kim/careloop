@@ -71,7 +71,7 @@ Staff:    Confirm the issue is resolved. The outcome stays in the
 ## How I build it
 
 - Solo, non-developer founder, building with AI coding agents (Claude Code and Codex).
-- Since February 2026: **4,300+ commits** and **1,500+ merged pull requests** in the private production repository.
+- Since February 2026: **3,400+ commits** on main and **1,500+ merged pull requests** in the private production repository.
 - Every change goes through a pull request with automated tests, code scanning, and AI code review. Production releases go out as a canary with automatic rollback.
 - Stack: TypeScript · React · Express · PostgreSQL · Google Cloud Run · Gemini
 
